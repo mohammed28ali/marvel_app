@@ -19,6 +19,7 @@ Marvel app is open-source  app for Android & ios. It is built with Dart on Googl
 $ git clone https://github.com/mohammed28ali/marvel_app
 $ cd marvel_app/
 ```
+
 ##### Get all the packages
 
 `flutter pub get`
