@@ -20,15 +20,15 @@ $ git clone https://github.com/mohammed28ali/marvel_app
 $ cd marvel_app/
 ```
 
-##### Get all the packages
+##### 3. Get all the packages
 
 `flutter pub get`
 
-##### Run the build runner command
+##### 4. Run the build runner command
 
 `flutter pub run build_runner build `
 
-##### Run the project
+##### 5. Run the project
 
 `flutter run` or simply press ` F5 key` if you are using VSCode
 
