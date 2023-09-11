@@ -1,0 +1,63 @@
+name: marvel_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  dio: ^5.3.2
+  video_player: ^2.7.1
+  flutter_svg: ^2.0.7
+  google_fonts: ^5.1.0
+  get_it: ^7.6.4
+  cached_network_image: ^3.2.3
+  firebase_auth: ^4.9.0
+  firebase_core: ^2.15.1
+  crypto: ^3.0.3
+  shimmer: ^3.0.0
+  carousel_slider: ^4.2.1
+  animate_do: ^3.0.0
+  http_certificate_pinning: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Merriweather
+      fonts:
+        - asset: assets/fonts/merriweather/Merriweather-Black.ttf
+        - asset: assets/fonts/merriweather/Merriweather-Bold.ttf
+
+    - family: Mulish
+      fonts:
+        - asset: assets/fonts/mulish/Mulish-Bold.ttf
+        - asset: assets/fonts/mulish/Mulish-Regular.ttf
+
+    - family: WorkSans
+      fonts:
+        - asset: assets/fonts/worksans/WorkSans-Bold.ttf
+        - asset: assets/fonts/worksans/WorkSans-Regular.ttf
+
+
+
