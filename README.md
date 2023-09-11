@@ -1,4 +1,5 @@
 ## Marvel App<br>
+![Uploading marvel_cover.png…]()
 
 Marvel app is open-source  app for Android & ios. It is built with Dart on Google's Flutter Framework.
 
