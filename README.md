@@ -1,7 +1,7 @@
 ## Marvel App<br>
 ![marvel_cover](https://github.com/mohammed28ali/marvel_app/assets/43098702/0e4dbc37-5430-4eff-97b8-0bd5051352ea)
 
-Marvel app is open-source  app for Android & ios. It is built with Dart on Google's Flutter Framework.
+Marvel app is open-source  app for Android & IOS. It is built with Dart on Google's Flutter Framework.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
